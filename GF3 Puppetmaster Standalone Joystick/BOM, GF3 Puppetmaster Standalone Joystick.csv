@@ -1,0 +1,11 @@
+Description,PN,Qty Needed,Per Pkg Price,Per Pkg Qty,Num Pkgs,Total,Notes,Link
+"Aluminum Extrusion, 40mm x 160mm, 290mm long",HFS8-40160-290-TPW,1,$37.58,1,1,$37.58,Drill per project instructions,https://us.misumi-ec.com/vona2/detail/110302691170/?ProductCode=HFS8-40160-290-TPW
+"Right Angle Bracket, 40mm wide, 80mm long",HBLFSSW8,4,$4.34,1,4,$17.36,Cut per project instructions,https://us.misumi-ec.com/vona2/detail/110300449770/?ProductCode=HBLFSSW8
+"Right Angle Bracket, 40mm wide, 40mm long",HBLFSNF8,4,$0.85,1,4,$3.40,Cut and drill per project instructions,https://us.misumi-ec.com/vona2/detail/110300449520/?ProductCode=HBLFSNF8
+"Button Head Screw, M8, 20mm long",HBCBM8-20,16,$0.95,1,16,$15.20,,https://us.misumi-ec.com/vona2/detail/110302261550/?ProductCode=HBCBM8-20
+"Slot Nut, M8",HNTT8-8,16,$0.66,1,16,$10.56,,https://us.misumi-ec.com/vona2/detail/110302256040/?ProductCode=HNTT8-8
+"Leveling Feet Set, M12, 1.9"" OD, 1.9"" long",B08GS86L7T,4,$12.89,4,1,$12.89,,https://smile.amazon.com/gp/product/B08GS86L7T
+,,,,,Hardware Subtotal,$96.99,,
+,,,,,,,,
+GF3 Puppetmaster Module,,1,$794.97,1,1,$794.97,See corresponding BOM for parts,
+,,,,,Grand Total,$891.96,,

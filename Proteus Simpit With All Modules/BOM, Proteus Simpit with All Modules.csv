@@ -1,0 +1,23 @@
+Description,PN,Qty Needed,Per Pkg Price,Per Pkg Qty,Num Pkgs,Total,Notes,Link
+"Aluminum Extrusion, 40mm x 160mm, 290mm long",HFS8-40160-290-TPW,1,$37.58,1,1,$37.58,Drill per project instructions,https://us.misumi-ec.com/vona2/detail/110302691170/?ProductCode=HFS8-40160-290-TPW
+"Aluminum Extrusion, 40mm x 40mm, 272mm long, both ends tapped",HFSP8-4040-272-TPW,2,$19.27,1,2,$38.54,,https://us.misumi-ec.com/vona2/detail/110302691870/?ProductCode=HFSP8-4040-272-TPW
+"Aluminum Extrusion, 40mm x 80mm, Light, 420mm long",HFSL8-4080-420,2,$13.73,1,2,$27.46,,https://us.misumi-ec.com/vona2/detail/110302690310/?ProductCode=HFSL8-4080-420
+"Aluminum Extrusion, 40mm x 80mm, Light, 170mm long, both ends tapped",HFSL8-4080-170-TPW,1,$8.81,1,1,$8.81,,https://us.misumi-ec.com/vona2/detail/110302690310/?ProductCode=HFSL8-4080-170-TPW
+"Pivot Nub and Screw kit, 40mm x 80mm",40-4386,4,$12.20,1,4,$48.80,,https://8020.net/40-4386.html
+"L Pivot Arm, 40mm",40-4349,1,$7.33,1,1,$7.33,,https://8020.net/40-4349.html
+"Straight Pivot Arm, 40mm",40-4396,5,$7.33,1,5,$36.65,Drill per project instructions,https://8020.net/40-4396.html
+"Straight Pivot Arm, Extended, 40mm",40-4399,2,$7.60,1,2,$15.20,,https://8020.net/40-4399.html
+"Right Angle Bracket, 40mm wide, 80mm long",HBLFSSW8,1,$4.34,1,1,$4.34,Cut per project instructions,https://us.misumi-ec.com/vona2/detail/110300449770/?ProductCode=HBLFSSW8
+"Right Angle Bracket, 40mm wide, 40mm long",HBLFSNF8,10,$0.85,1,10,$8.50,,https://us.misumi-ec.com/vona2/detail/110300449520/?ProductCode=HBLFSNF8
+"Button Head Screw, M12, 35mm long",HBCBM12-35,2,$2.95,1,2,$5.90,,https://us.misumi-ec.com/vona2/detail/110302261550/?ProductCode=HBCBM12-35
+"Button Head Screw, M8, 20mm long",HBCBM8-20,22,$0.95,1,22,$20.90,,https://us.misumi-ec.com/vona2/detail/110302261550/?ProductCode=HBCBM8-20
+"Button Head Screw, M8, 16mm long",19-8316,24,$0.38,1,24,$9.12,,https://8020.net/19-8316.html
+"Slot Nut, M8",HNTT8-8,32,$0.66,1,32,$21.12,,https://us.misumi-ec.com/vona2/detail/110302256040/?ProductCode=HNTT8-8
+"Slot Nut, Economy, M8",40-1981,2,$0.43,1,2,$0.86,Cut per project instructions,https://8020.net/40-1981.html
+Retractable Caster Set,17001,3,$54.69,4,1,$54.69,,https://www.homedepot.com/p/POWERTEC-New-Workbench-Caster-Kit-4-Pack-17001/307723909
+"Leveling Feet Set, M12, 1.9"" OD, 1.9"" long",B08GS86L7T,10,$12.89,4,3,$38.67,Cut per project instructions,https://smile.amazon.com/gp/product/B08GS86L7T
+,,,,,Hardware Subtotal,$384.47,,
+,,,,,,,,
+GF3 Puppetmaster Module,,1,$794.97,1,1,$794.97,See corresponding BOM for parts,
+K-51 Module,,1,$302.71,1,1,$302.71,See corresponding BOM for parts,
+,,,,,Grand Total,"$1,482.15",,

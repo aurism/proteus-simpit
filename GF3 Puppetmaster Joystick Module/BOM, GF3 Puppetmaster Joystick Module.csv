@@ -1,0 +1,31 @@
+Description,PN,Qty Needed,Per Pkg Price,Per Pkg Qty,Num Pkgs,Total,Notes,Link
+"Aluminum Extrusion, 40mm x 80mm, Light, 233mm long, both ends tapped",HFSL8-4080-233-TPW,1,$17.13,1,1,$17.13,,https://us.misumi-ec.com/vona2/detail/110302690310/?ProductCode=HFSL8-4080-233-TPW
+"Aluminum Extrusion, 40mm x 80mm, Light, 215mm long",HFSL8-4080-215,2,$8.81,1,2,$17.62,,https://us.misumi-ec.com/vona2/detail/110302690310/?ProductCode=HFSL8-4080-215
+"Right Angle Bracket, 40mm wide, 40mm long",HBLFSNF8,4,$0.85,1,4,$3.40,,https://us.misumi-ec.com/vona2/detail/110300449520/?ProductCode=HBLFSNF8
+"Button Head Screw, M8, 20mm long",HBCBM8-20,8,$0.95,1,8,$7.60,,https://us.misumi-ec.com/vona2/detail/110302261550/?ProductCode=HBCBM8-20
+"Flat Head Screw, M8, 16mm long",HFBCM8-16,10,$0.72,1,10,$7.20,,https://us.misumi-ec.com/vona2/detail/110300463610/?ProductCode=HFBCM8-16
+"Slot Nut, M8",HNTT8-8,18,$0.66,1,18,$11.88,,https://us.misumi-ec.com/vona2/detail/110302256040/?ProductCode=HNTT8-8
+"Aluminum Sheet, .1875"" Thick, 3""x12""",8975K85,1,$6.12,1,1,$6.12,Cut and drill per project instructions,https://www.mcmaster.com/8975K85-8975K699/
+"Heat Set Insert, #10",97171A220,4,$15.71,50,1,$15.71,,https://www.mcmaster.com/97171A220/
+"Rod End, #10 female, #10 stud, nylon race",MPF-3S,4,$7.76,1,4,$31.04,,https://midwestcontrol.com/shop/MPF-3S
+"Externally Threaded Rod, #10, 6"" long",90322A644,2,$2.85,1,2,$5.70,,https://www.mcmaster.com/90322A644/
+"Socket Cap Screw, #10-32, 1"" long",96006A696,12,$6.90,25,1,$6.90,,https://www.mcmaster.com/96006A696/
+"Self Tapping screw, #4, 1"" long",99461A208,3,$8.50,25,1,$8.50,,https://www.mcmaster.com/99461A208/
+"Locknut, #10-32",90633A411,12,$3.18,100,1,$3.18,,https://www.mcmaster.com/90633A411/
+"Jamnut, #10-32, RH",90480A195,4,$1.89,100,1,$1.89,,https://www.mcmaster.com/90480a195/
+"Flat Washer, #4",92141A005,3,$1.43,100,1,$1.43,,https://www.mcmaster.com/92141A005/
+24V Power Supply,B01GC6VS8I,1,$20.99,1,1,$20.99,,https://smile.amazon.com/dp/B01GC6VS8I
+Self Adhesive Heat Sink,20188,4,$0.93,1,4,$3.72,,https://www.digikey.com/en/products/detail/watterott-electronic-gmbh/20188/10071165
+"Resistor, Current Sense, 1 ohm",CRM1206-FX-1R00ELF,4,$0.32,1,4,$1.28,,https://www.mouser.com/ProductDetail/Bourns/CRM1206-FX-1R00ELF?qs=gtReTMvImqn8T1bwG81BBg%3D%3D
+Power connector header,IL-G-3P-S3T2-SA,1,$0.45,1,1,$0.45,,https://www.digikey.com/en/products/detail/jae-electronics/IL-G-3P-S3T2-SA/2523363
+"FFB Horns, front half",,1,$14.04,1,1,$14.04,3D print per project instructions. Price shown is estimate for printing using online service,
+"FFB Horns, rear half",,1,$14.04,1,1,$14.04,3D print per project instructions. Price shown is estimate for printing using online service,
+"Gunfighter Horns, front half",,1,$14.04,1,1,$14.04,3D print per project instructions. Price shown is estimate for printing using online service,
+"Gunfighter Horns, rear half",,1,$14.04,1,1,$14.04,3D print per project instructions. Price shown is estimate for printing using online service,
+PCB Mount,,1,$14.04,1,1,$14.04,3D print per project instructions. Price shown is estimate for printing using online service,
+FFB Riser,,1,$14.04,1,1,$14.04,3D print per project instructions. Price shown is estimate for printing using online service,
+,,,,,Hardware Subtotal,$255.97,,
+,,,,,,,,
+VKB Gunfighter MkIII Gimbal with Extension,,1,$459.00,1,1,$459.00,"Prepare per project instructions. Price listed is for Modern Combat grip with long extension, but both extensions and any grip works",https://vkbcontrollers.com/?product=gunfighter-mk-ii
+Microsoft Sidewinder Force Feedback 2 Gimbal and PCB,,1,$80.00,1,1,$80.00,Prepare per project instructions. Price listed is approx price for used joystick,https://www.ebay.com/sch/i.html?_nkw=Microsoft%20SideWinder%20Force%20Feedback%202&ssPageName=GSTL
+,,,,,Grand Total,$794.97,,
