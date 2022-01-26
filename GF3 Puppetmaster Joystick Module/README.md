@@ -20,7 +20,7 @@
 ## Instructions
 ### Prepare Gunfighter Gimbal
 1. Disassemble the Gunfighter gimbal per [VKB instructions](https://www.youtube.com/watch?v=dc8LZyThYs0) and install a soft center space cam (Space-S) and one #10 spring on each axis. This balances out the weight of the final joystick and prevents it from tilting.
-2. Adjust dry clutches to not be too tight, otherwise the force feedback will be reduced. For example, I set the clutch screws to compress the clutch springs halfway. Apply damping grease to the dry clutches at this point if you wish.
+2. For maximum force feedback (at the cost of feeling the motors cogging and gear teeth meshing), loosen the dry clutches all the way. Alternatively, for smoother force feedback (at the cost of lower force), tighten the dry clutches part of the way.
 3. Reassemble the Gunfighter gimbal.
 
 ### Prepare FFB Gimbal
